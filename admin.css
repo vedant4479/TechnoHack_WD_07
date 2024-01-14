@@ -1,0 +1,64 @@
+*
+{
+	padding: 0;
+	margin: 0;
+}
+
+.header
+{
+	background-color: darkblue;
+	line-height: 70px;
+	padding-left: 30px;
+}
+
+.head_text
+{
+	font-size: 20px;
+	position: relative;
+	color: orangered;
+	font-weight: bold;
+	line-height: 70px;
+	text-decoration: none;
+}
+
+.logout
+{
+	float: right;
+	padding-right: 30px;
+}
+
+ul
+{
+	background-color: #424a5b;
+	width: 16%;
+	height: 100%;
+	position: fixed;
+	padding-top: 5%;
+	text-align: center;
+}
+
+ul li
+{
+	list-style: none;
+	padding-bottom: 30px;
+	font-size: 15px;
+}
+
+ul li a
+{
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+ul li a:hover
+{
+	color: orangered;
+}
+
+.content
+{
+	color: black;
+	margin-left: 20%;
+	margin-top: 5%;
+}
